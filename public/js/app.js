@@ -1,6 +1,6 @@
 // The Auth0 client, initialized in configureClient()
 let auth0 = null;
-let apiEndpoint = "https://dvhrde83ui.execute-api.ap-northeast-1.amazonaws.com/";
+let apiEndpoint = "https://iiumq6zfz1.execute-api.ap-northeast-1.amazonaws.com/";
 
 /**
  * Starts the authentication flow
